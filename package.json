@@ -1,0 +1,24 @@
+{
+  "name": "programmers-introduction-to-mathematics",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": "https://github.com/pim-book/programmers-introduction-to-mathematics.git",
+  "author": "Stéphane Roucheray <stephane.roucheray@perfect-memory.com>",
+  "license": "MIT",
+  "dependencies": {
+    "global": "^4.4.0",
+    "ts-node": "^10.2.1",
+    "typescript": "^4.4.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.15.0",
+    "@babel/preset-env": "^7.15.0",
+    "@babel/preset-typescript": "^7.15.0",
+    "@types/jest": "^27.0.1",
+    "babel-jest": "^27.1.0",
+    "jest": "^27.1.0"
+  }
+}
